@@ -19,7 +19,7 @@
 		"bootstrap-multiselect": "^1.1.0",
 		"bootstrap-slider": "^9.7.3",
 		"colresizable": "^1.6.0",
-		"datatables.net-bs": "1.10.15",
+		"datatables.net-bs": "1.13.8",
 		"datatables.net-buttons-bs": "^1.5.1",
 		"datatables.net-colreorder-bs": "^1.4.1",
 		"datatables.net-fixedcolumns-bs": "^3.3.3",
